@@ -1,0 +1,9 @@
+ 1|Mackerel|200.00|147|
+ 2|Rice|90.00|166|
+ 4|Johncrow|200.00|38|
+ 5|Water|20.00|19|
+ 6|Waterbottle|200.00|18|
+ 7|Giovanni|700.00|0|
+
+
+
